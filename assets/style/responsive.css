@@ -1,0 +1,18 @@
+@media screen and (max-width:700px){
+    header .container {
+  display: flex;  /* Padrao da div e display block */
+  flex-direction: column; /* isso e padrao quando colocamos display flex  */
+  /* align-items: center;
+  justify-content: space-between; */
+}
+botao {
+    margin-top: 5px;
+    width: 300px;
+}
+}
+
+@media screen and (min-width:1000px){
+    .descricao {
+        width: 50%;
+    }
+}
