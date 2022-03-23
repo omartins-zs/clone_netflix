@@ -45,7 +45,7 @@ header nav a:hover {
 .filme-principal {
   font-size: 16px;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
-    url("/assets/img/capa-justiceiro.jpg");
+    url("/assets/img/punisher.jpg");
 
   height: 25rem;
   background-size: cover;
